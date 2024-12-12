@@ -1,1 +1,15 @@
-# Placeholder
+opencv-python
+opencv-python-headless
+pillow
+tensorflow
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+albumentations
+imgaug
+joblib
+flask
+fastapi
+notebook
